@@ -67,7 +67,7 @@ pub struct ThermalMonitor {
 impl ThermalMonitor {
     pub fn new() -> Self {
         let logger = Logger::new();
-        logger.info("Rianixia Thermal Core v3.1 [PID-Predictive+DVFSRC] - Initializing");
+        logger.info("Rynx Thermal Core v3.1 [PID-Predictive+DVFSRC] - Initializing");
 
         let data_path = get_data_path();
         let thermal_path = get_thermal_path();
