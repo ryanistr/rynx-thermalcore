@@ -2,7 +2,7 @@
 name = "rynx-thermalcore"
 version = "2.0.0"
 edition = "2024"
-authors = ["rynx"]
+authors = ["rianixia"]
 
 [dependencies]
 nix = { version = "0.31", features = ["poll", "time"] }

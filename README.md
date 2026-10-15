@@ -187,7 +187,7 @@ Open an issue or PR if you find a bug or have a focused improvement. I'll review
 Licensed under the **Apache License, Version 2.0** — see [LICENSE](LICENSE) for the full text.
 
 ```
-Copyright (c) 2024 rynx
+Copyright (c) 2024 rianixia
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
